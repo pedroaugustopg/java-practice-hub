@@ -1,4 +1,4 @@
-# ☕ Java Practice Hub
+# Java Practice Hub
 
 Projeto desenvolvido com o objetivo de praticar os principais conceitos da linguagem **Java** e da **Programação Orientada a Objetos (POO)** por meio da implementação 
 de pequenos exercícios independentes.
@@ -8,7 +8,7 @@ separação de responsabilidades, reutilização de código e uma arquitetura ma
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Praticar a sintaxe da linguagem Java.
 - Desenvolver o raciocínio lógico.
@@ -21,7 +21,7 @@ separação de responsabilidades, reutilização de código e uma arquitetura ma
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 JavaExercises
@@ -55,9 +55,9 @@ Cada package representa um exercício independente, contendo:
 
 ---
 
-# ⚙️ Funcionalidades
+# Funcionalidades
 
-## 📐 Área do Terreno
+## Área do Terreno
 
 Calcula a área de um terreno a partir da largura e do comprimento informados pelo usuário.
 
@@ -70,7 +70,7 @@ Calcula a área de um terreno a partir da largura e do comprimento informados pe
 
 ---
 
-## 🔢 Contador
+## Contador
 
 Realiza contagens crescentes ou decrescentes utilizando início, fim e passo definidos pelo usuário.
 
@@ -83,7 +83,7 @@ Realiza contagens crescentes ou decrescentes utilizando início, fim e passo def
 
 ---
 
-## 📝 Formatador de Mensagens
+## Formatador de Mensagens
 
 Exibe mensagens formatadas dentro de um quadro utilizando caracteres especiais.
 
@@ -95,7 +95,7 @@ Exibe mensagens formatadas dentro de um quadro utilizando caracteres especiais.
 
 ---
 
-## ➗ Fatorial
+## Fatorial
 
 Calcula o fatorial de um número inteiro, permitindo exibir ou não todas as etapas da multiplicação.
 
@@ -108,7 +108,7 @@ Calcula o fatorial de um número inteiro, permitindo exibir ou não todas as eta
 
 ---
 
-## ⚽ Ficha do Jogador
+## Ficha do Jogador
 
 Exibe uma ficha contendo o nome do jogador e a quantidade de gols marcados.
 
@@ -121,7 +121,7 @@ Exibe uma ficha contendo o nome do jogador e a quantidade de gols marcados.
 
 ---
 
-## 🔝 Maior Número
+## Maior Número
 
 Analisa uma quantidade variável de números inteiros e identifica o maior valor informado.
 
@@ -134,7 +134,7 @@ Analisa uma quantidade variável de números inteiros e identifica o maior valor
 
 ---
 
-## 🎲 Sorteio e Soma dos Pares
+## Sorteio e Soma dos Pares
 
 Realiza o sorteio de números aleatórios, armazena-os em uma lista e calcula a soma dos números pares.
 
@@ -148,7 +148,7 @@ Realiza o sorteio de números aleatórios, armazena-os em uma lista e calcula a 
 
 ---
 
-## 🗳️ Verificador de Voto
+## Verificador de Voto
 
 Calcula a idade do usuário a partir do ano de nascimento e informa sua situação eleitoral.
 
@@ -161,7 +161,7 @@ Calcula a idade do usuário a partir do ano de nascimento e informa sua situaç�
 
 ---
 
-# 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 
 Durante o desenvolvimento deste projeto foram utilizados diversos conceitos fundamentais da linguagem Java, entre eles:
 
@@ -184,7 +184,7 @@ Durante o desenvolvimento deste projeto foram utilizados diversos conceitos fund
 
 ---
 
-# 🏗️ Arquitetura
+## Arquitetura
 
 O projeto foi organizado seguindo uma estrutura modular.
 
@@ -201,7 +201,7 @@ Essa organização torna o código mais limpo, reutilizável e facilita futuras 
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java
 - JDK 17+
@@ -209,12 +209,12 @@ Essa organização torna o código mais limpo, reutilizável e facilita futuras 
 
 ---
 
-# ▶️ Como Executar
+## Como Executar
 
 1. Clone este repositório.
 
 ```bash
-git clone https://github.com/seu-usuario/JavaExercises.git
+git clone (https://github.com/pedroaugustopg/java-practice-hub)
 ```
 
 2. Abra o projeto no IntelliJ IDEA.
@@ -226,19 +226,3 @@ app.Main
 ```
 
 4. Escolha um dos exercícios disponíveis no menu principal.
-
----
-
-# 📚 Objetivo Educacional
-
-Este projeto faz parte dos meus estudos em Java e Programação Orientada a Objetos, tendo como principal finalidade consolidar os fundamentos da linguagem por meio 
-da implementação de exercícios práticos.
-
-Ao longo do desenvolvimento, foram priorizadas boas práticas de organização do código, separação de responsabilidades e reutilização de componentes, aproximando 
-a estrutura do projeto de aplicações reais desenvolvidas em Java.
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por **Pedro Augusto** como parte dos estudos em **Java**, **Programação Orientada a Objetos** e desenvolvimento de software.
