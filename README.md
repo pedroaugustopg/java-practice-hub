@@ -161,29 +161,6 @@ Calcula a idade do usuário a partir do ano de nascimento e informa sua situaç�
 
 ---
 
-## Conceitos Aplicados
-
-Durante o desenvolvimento deste projeto foram utilizados diversos conceitos fundamentais da linguagem Java, entre eles:
-
-- Programação Orientada a Objetos (POO)
-- Organização em packages
-- Separação de responsabilidades
-- Métodos estáticos
-- Sobrecarga de métodos
-- Encapsulamento da lógica
-- Entrada e saída de dados
-- Estruturas condicionais
-- Estruturas de repetição
-- Tratamento de exceções
-- Manipulação de Strings
-- Coleções (`ArrayList`)
-- Geração de números aleatórios (`Random`)
-- Manipulação de datas (`LocalDate`)
-- Reutilização de código
-- Organização modular do projeto
-
----
-
 ## Arquitetura
 
 O projeto foi organizado seguindo uma estrutura modular.
